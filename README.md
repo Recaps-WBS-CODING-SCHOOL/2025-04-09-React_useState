@@ -1,14 +1,14 @@
-# React useState Hook Deep Dive: Adventure Game
+# React `useState` Hook Deep Dive
 
-This repository contains the code example from our React `useState` hook deep dive session. The Adventure Game demonstrates fundamental React state concepts in a fun, interactive way.
+This repository contains the code example from our React `useState` hook deep dive recap session.
 
 ## 📹 Lecture Recording
 
-You can watch the full lecture explaining these concepts on Google Drive:
+You can watch the full recap session explaining these concepts on Google Drive:
 
 [Link to Lecture Recording](https://drive.google.com/YOUR_VIDEO_LINK)
 
-## 🎮 The Adventure Game Example
+## 🎮 The `useState` Game Example
 
 This simple example illustrates key React state concepts:
 
@@ -17,6 +17,8 @@ This simple example illustrates key React state concepts:
 - Functional updates vs direct value updates
 - Immutability with objects and arrays
 - State batching
+
+  **The main component can be found in [`src/components/AdventureGame.jsx`](./src/components/AdventureGame.jsx).**
 
 ## 🚀 Getting Started
 
@@ -51,8 +53,8 @@ Follow these steps to run the project locally:
 
 For a better understanding of how React state works, install the **React Developer Tools** extension for your browser:
 
-- [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- [React Developer Tools for Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+- [React Developer Tools for Chromium based browsers](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [React Developer Tools for Firefox based borwser](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 
 Once installed:
 
