@@ -54,7 +54,7 @@ Follow these steps to run the project locally:
 For a better understanding of how React state works, install the **React Developer Tools** extension for your browser:
 
 - [React Developer Tools for Chromium based browsers](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- [React Developer Tools for Firefox based borwser](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+- [React Developer Tools for Firefox based browsers](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 
 Once installed:
 
