@@ -6,7 +6,7 @@ This repository contains the code example from our React `useState` hook deep di
 
 You can watch the full recap session explaining these concepts on Google Drive:
 
-[Link to Lecture Recording](https://drive.google.com/YOUR_VIDEO_LINK)
+[Link to Lecture Recording](https://drive.google.com/file/d/1Hge3aitj0BA9xjV1NJgNNTBdNlkMZ2dq/view?usp=drive_link)
 
 ## 🎮 The `useState` Game Example
 
